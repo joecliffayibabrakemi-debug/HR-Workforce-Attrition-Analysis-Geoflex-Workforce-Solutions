@@ -58,6 +58,11 @@ The tables were connected through `EmployeeID`, with Department and Branch used 
 
 ## Key Visuals
 
+## Data Modeling Structure
+
+<img width="1466" height="664" alt="Screenshot 2026-09-14 122318" src="https://github.com/user-attachments/assets/055bc270-17a4-4c85-94f7-fb8eeef38b61" />
+
+
 ### Executive Overview
 
 <img width="2075" height="1200" alt="executive-overview" src="https://github.com/user-attachments/assets/7d06cb81-6acd-44dd-abc9-3616a1da51e0" />
