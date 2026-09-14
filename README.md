@@ -2,7 +2,7 @@
 
 An HR analytics case study examining workforce structure, employee attrition, recruitment effectiveness, and data quality across Nigeria and Kenya.
 
-> **Portfolio project:** A self directed case study using a provided HR dataset to simulate a junior Data Analyst assignment.
+> A self directed case study using a provided HR dataset to simulate a junior Data Analyst assignment.
 
 ## Business Problem
 
