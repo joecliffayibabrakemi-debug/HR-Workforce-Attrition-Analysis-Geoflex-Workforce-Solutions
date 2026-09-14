@@ -60,26 +60,23 @@ The tables were connected through `EmployeeID`, with Department and Branch used 
 
 ### Executive Overview
 
-Shows total headcount, workforce growth, active employees, promotions, applicants, attrition rate, country distribution, and department headcount.
+<img width="2075" height="1200" alt="executive-overview" src="https://github.com/user-attachments/assets/7d06cb81-6acd-44dd-abc9-3616a1da51e0" />
+
 
 ### Attrition Analysis
 
-Shows attrition rate by department and branch, exit reasons, and employee exit tenure.
+<img width="2075" height="1200" alt="attrition-analysis" src="https://github.com/user-attachments/assets/06d0b515-df76-4014-b5e2-c8d07cbf95fb" />
+
 
 ### Talent Acquisition
 
-Shows the recruitment funnel and hire rate by recruitment source.
+<img width="2075" height="1200" alt="talent-acquisition" src="https://github.com/user-attachments/assets/21d2e437-3665-458e-97b7-f0b9d0a2c032" />
+
 
 ### Branch Comparison
 
-Ranks branches by headcount, attendance, attrition, and payroll.
+<img width="2075" height="1200" alt="branch-comparison" src="https://github.com/user-attachments/assets/f06ae983-dd20-4304-bd15-8931c02d4782" />
 
-**Recommended screenshots for the repository:**
-
-1. Executive Overview
-2. Attrition Analysis
-3. Talent Acquisition
-4. Branch Comparison
 
 ## Key Insights
 
