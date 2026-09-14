@@ -109,10 +109,7 @@ I reviewed the exit tenure distribution and found a "<0" (negative) tenure categ
 - **Power Query** — data cleaning and transformation: removing duplicates, standardizing text case, trimming whitespace, filling blank fields, and standardizing date formats.
 - **Power BI** — data modeling across the 8 related tables, DAX measures, and the 8-page interactive dashboard.
 - **DAX** — calculated measures behind the dashboard KPIs (attrition rate, hire rate by source, training completion rate, attendance/present rate, payroll totals and averages, year-over-year headcount growth).
-- **MySQL** — database and table creation, primary/foreign key relationships, and SQL queries (JOINs, ranking, aggregation) to answer the department- and branch-level ranking questions defined in the project brief (e.g., ranking employees by salary within department, ranking branches by performance).
-
-No other tools (Python, Tableau, R, etc.) were used in this project.
-
+- **PowerPoint** 
 ---
 
 ## Data Preparation & Quality
