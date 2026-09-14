@@ -1,0 +1,8 @@
+EmploymentStatusID,EmploymentStatus
+ES001,Active
+ES002,Probation
+ES003,On Leave
+ES004,Suspended
+ES005,Resigned
+ES006,Terminated
+ES007,Retired

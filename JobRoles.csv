@@ -1,0 +1,107 @@
+JobRoleID,DepartmentID,JobRole,GradeID
+JR001,DEP001,HR Intern,SG01
+JR002,DEP001,HR Assistant,SG02
+JR003,DEP001,HR Officer,SG03
+JR004,DEP001,Senior HR Officer,SG03
+JR005,DEP001,HR Business Partner,SG03
+JR006,DEP001,HR Manager,SG06
+JR007,DEP001,Talent Acquisition Specialist,SG03
+JR008,DEP001,Learning & Development Officer,SG03
+JR009,DEP002,Finance Intern,SG01
+JR010,DEP002,Accounts Officer,SG03
+JR011,DEP002,Accountant,SG03
+JR012,DEP002,Senior Accountant,SG05
+JR013,DEP002,Financial Analyst,SG04
+JR014,DEP002,Payroll Officer,SG03
+JR015,DEP002,Finance Manager,SG06
+JR016,DEP002,Financial Controller,SG07
+JR017,DEP003,Operations Intern,SG01
+JR018,DEP003,Operations Assistant,SG02
+JR019,DEP003,Operations Officer,SG03
+JR020,DEP003,Operations Analyst,SG04
+JR021,DEP003,Operations Supervisor,SG05
+JR022,DEP003,Operations Manager,SG06
+JR023,DEP003,Regional Operations Manager,SG06
+JR024,DEP003,Branch Manager,SG06
+JR025,DEP004,IT Support Officer,SG03
+JR026,DEP004,Helpdesk Technician,SG03
+JR027,DEP004,Systems Administrator,SG04
+JR028,DEP004,Network Engineer,SG04
+JR029,DEP004,Software Developer,SG04
+JR030,DEP004,Database Administrator,SG04
+JR031,DEP004,Data Analyst,SG04
+JR032,DEP004,Data Engineer,SG04
+JR033,DEP004,Cybersecurity Analyst,SG04
+JR034,DEP004,IT Manager,SG06
+JR035,DEP005,Procurement Assistant,SG02
+JR036,DEP005,Procurement Officer,SG03
+JR037,DEP005,Buyer,SG04
+JR038,DEP005,Senior Buyer,SG04
+JR039,DEP005,Vendor Relationship Officer,SG03
+JR040,DEP005,Category Manager,SG06
+JR041,DEP005,Procurement Manager,SG06
+JR042,DEP006,Sales Trainee,SG01
+JR043,DEP006,Sales Representative,SG03
+JR044,DEP006,Key Account Officer,SG03
+JR045,DEP006,Business Development Executive,SG03
+JR046,DEP006,Sales Supervisor,SG05
+JR047,DEP006,Sales Manager,SG06
+JR048,DEP006,Regional Sales Manager,SG06
+JR049,DEP006,Sales Director,SG08
+JR050,DEP007,Marketing Assistant,SG02
+JR051,DEP007,Marketing Officer,SG03
+JR052,DEP007,Digital Marketing Officer,SG03
+JR053,DEP007,Brand Officer,SG03
+JR054,DEP007,Content Strategist,SG03
+JR055,DEP007,Marketing Analyst,SG04
+JR056,DEP007,Marketing Manager,SG06
+JR057,DEP007,Marketing Director,SG08
+JR058,DEP008,Customer Service Representative,SG03
+JR059,DEP008,Call Centre Agent,SG03
+JR060,DEP008,Customer Success Officer,SG03
+JR061,DEP008,Customer Experience Analyst,SG04
+JR062,DEP008,Customer Service Supervisor,SG05
+JR063,DEP008,Customer Service Manager,SG06
+JR064,DEP009,Compliance Officer,SG03
+JR065,DEP009,Risk Analyst,SG04
+JR066,DEP009,AML Officer,SG03
+JR067,DEP009,Compliance Manager,SG06
+JR068,DEP009,Risk Manager,SG06
+JR069,DEP010,Audit Assistant,SG02
+JR070,DEP010,Internal Auditor,SG01
+JR071,DEP010,Senior Internal Auditor,SG01
+JR072,DEP010,Audit Manager,SG06
+JR073,DEP010,Head of Internal Audit,SG01
+JR074,DEP011,Production Operator,SG02
+JR075,DEP011,Machine Operator,SG02
+JR076,DEP011,Maintenance Technician,SG03
+JR077,DEP011,Production Supervisor,SG05
+JR078,DEP011,Production Engineer,SG04
+JR079,DEP011,Maintenance Engineer,SG04
+JR080,DEP011,Factory Manager,SG06
+JR081,DEP011,Plant Manager,SG06
+JR082,DEP012,Warehouse Assistant,SG02
+JR083,DEP012,Inventory Officer,SG03
+JR084,DEP012,Logistics Officer,SG03
+JR085,DEP012,Supply Chain Analyst,SG04
+JR086,DEP012,Warehouse Supervisor,SG05
+JR087,DEP012,Logistics Manager,SG06
+JR088,DEP012,Supply Chain Manager,SG06
+JR089,DEP013,QA Assistant,SG02
+JR090,DEP013,QA Officer,SG03
+JR091,DEP013,Quality Inspector,SG04
+JR092,DEP013,Quality Engineer,SG04
+JR093,DEP013,Senior QA Officer,SG03
+JR094,DEP013,QA Manager,SG06
+JR095,DEP014,Receptionist,SG02
+JR096,DEP014,Administrative Assistant,SG02
+JR097,DEP014,Administrative Officer,SG03
+JR098,DEP014,Office Manager,SG06
+JR099,DEP014,Executive Assistant,SG02
+JR100,DEP014,Administration Manager,SG06
+JR101,DEP015,Chief Executive Officer,SG03
+JR102,DEP015,Chief Operating Officer,SG03
+JR103,DEP015,Chief Financial Officer,SG03
+JR104,DEP015,Chief Technology Officer,SG03
+JR105,DEP015,Chief Human Resources Officer,SG03
+JR106,DEP015,Managing Director,SG08

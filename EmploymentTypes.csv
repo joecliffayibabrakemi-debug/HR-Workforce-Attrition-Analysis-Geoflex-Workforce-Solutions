@@ -1,0 +1,7 @@
+EmploymentTypeID,EmploymentType
+ET001,Full-Time
+ET002,Contract
+ET003,Intern
+ET004,Graduate Trainee
+ET005,Temporary
+ET006,Part-Time

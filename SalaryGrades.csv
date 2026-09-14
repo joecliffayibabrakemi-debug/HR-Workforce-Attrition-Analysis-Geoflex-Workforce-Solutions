@@ -1,0 +1,11 @@
+GradeID,GradeName,Level,MinimumSalary,MaximumSalary
+SG01,Intern,Entry Level,120000,180000
+SG02,Assistant,Junior,180000,250000
+SG03,Officer,Intermediate,250000,400000
+SG04,Professional,Experienced,400000,650000
+SG05,Senior,Senior Staff,650000,900000
+SG06,Manager,Management,900000,1500000
+SG07,Senior Manager,Executive Management,1500000,2200000
+SG08,Director,Senior Executive,2200000,3200000
+SG09,Chief Executive,C-Suite,3200000,4500000
+SG10,Managing Director,Executive,4500000,6000000

@@ -1,0 +1,41 @@
+BranchID,BranchName,BranchLocation,StateID,CountryID
+BR001,Lagos Head Office,Lagos,NG025,NG
+BR002,Abuja Regional Office,FCT Abuja,NG015,NG
+BR003,Port Harcourt Branch,Rivers,NG033,NG
+BR004,Kano Branch,Kano,NG020,NG
+BR005,Ibadan Branch,Oyo,NG031,NG
+BR006,Benin Branch,Edo,NG012,NG
+BR007,Uyo Branch,Akwa Ibom,NG003,NG
+BR008,Yenagoa Branch,Bayelsa,NG006,NG
+BR009,Warri Branch,Delta,NG010,NG
+BR010,Calabar Branch,Cross River,NG009,NG
+BR011,Enugu Branch,Enugu,NG014,NG
+BR012,Owerri Branch,Imo,NG017,NG
+BR013,Abeokuta Branch,Ogun,NG028,NG
+BR014,Jos Branch,Plateau,NG032,NG
+BR015,Kaduna Branch,Kaduna,NG019,NG
+BR016,Ilorin Branch,Kwara,NG024,NG
+BR017,Makurdi Branch,Benue,NG007,NG
+BR018,Ado Ekiti Branch,Ekiti,NG013,NG
+BR019,Onitsha Branch,Anambra,NG004,NG
+BR020,Maiduguri Branch,Borno,NG008,NG
+BR021,Asaba Branch,Delta,NG010,NG
+BR022,Lokoja Branch,Kogi,NG023,NG
+BR023,Sokoto Branch,Sokoto,NG034,NG
+BR024,Osogbo Branch,Osun,NG030,NG
+BR025,Minna Branch,Niger,NG027,NG
+BR026,Nairobi Head Office,Nairobi,KE047,KE
+BR027,Mombasa Branch,Mombasa,KE001,KE
+BR028,Kisumu Branch,Kisumu,KE042,KE
+BR029,Nakuru Branch,Nakuru,KE032,KE
+BR030,Eldoret Branch,Uasin Gishu,KE027,KE
+BR031,Machakos Branch,Machakos,KE016,KE
+BR032,Nyeri Branch,Nyeri,KE019,KE
+BR033,Meru Branch,Meru,KE012,KE
+BR034,Garissa Branch,Garissa,KE007,KE
+BR035,Kiambu Branch,Kiambu,KE022,KE
+BR036,Kericho Branch,Kericho,KE035,KE
+BR037,Bungoma Branch,Bungoma,KE039,KE
+BR038,Busia Branch,Busia,KE040,KE
+BR039,Kakamega Branch,Kakamega,KE037,KE
+BR040,Nyamira Branch,Nyamira,KE046,KE

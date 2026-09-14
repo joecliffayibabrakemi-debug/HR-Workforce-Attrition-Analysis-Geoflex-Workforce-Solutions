@@ -1,0 +1,85 @@
+StateID,StateName,CountryID
+NG001,Abia,NG
+NG002,Adamawa,NG
+NG003,Akwa Ibom,NG
+NG004,Anambra,NG
+NG005,Bauchi,NG
+NG006,Bayelsa,NG
+NG007,Benue,NG
+NG008,Borno,NG
+NG009,Cross River,NG
+NG010,Delta,NG
+NG011,Ebonyi,NG
+NG012,Edo,NG
+NG013,Ekiti,NG
+NG014,Enugu,NG
+NG015,FCT Abuja,NG
+NG016,Gombe,NG
+NG017,Imo,NG
+NG018,Jigawa,NG
+NG019,Kaduna,NG
+NG020,Kano,NG
+NG021,Katsina,NG
+NG022,Kebbi,NG
+NG023,Kogi,NG
+NG024,Kwara,NG
+NG025,Lagos,NG
+NG026,Nasarawa,NG
+NG027,Niger,NG
+NG028,Ogun,NG
+NG029,Ondo,NG
+NG030,Osun,NG
+NG031,Oyo,NG
+NG032,Plateau,NG
+NG033,Rivers,NG
+NG034,Sokoto,NG
+NG035,Taraba,NG
+NG036,Yobe,NG
+NG037,Zamfara,NG
+KE001,Mombasa,KE
+KE002,Kwale,KE
+KE003,Kilifi,KE
+KE004,Tana River,KE
+KE005,Lamu,KE
+KE006,Taita Taveta,KE
+KE007,Garissa,KE
+KE008,Wajir,KE
+KE009,Mandera,KE
+KE010,Marsabit,KE
+KE011,Isiolo,KE
+KE012,Meru,KE
+KE013,Tharaka-Nithi,KE
+KE014,Embu,KE
+KE015,Kitui,KE
+KE016,Machakos,KE
+KE017,Makueni,KE
+KE018,Nyandarua,KE
+KE019,Nyeri,KE
+KE020,Kirinyaga,KE
+KE021,Murang'a,KE
+KE022,Kiambu,KE
+KE023,Turkana,KE
+KE024,West Pokot,KE
+KE025,Samburu,KE
+KE026,Trans Nzoia,KE
+KE027,Uasin Gishu,KE
+KE028,Elgeyo-Marakwet,KE
+KE029,Nandi,KE
+KE030,Baringo,KE
+KE031,Laikipia,KE
+KE032,Nakuru,KE
+KE033,Narok,KE
+KE034,Kajiado,KE
+KE035,Kericho,KE
+KE036,Bomet,KE
+KE037,Kakamega,KE
+KE038,Vihiga,KE
+KE039,Bungoma,KE
+KE040,Busia,KE
+KE041,Siaya,KE
+KE042,Kisumu,KE
+KE043,Homa Bay,KE
+KE044,Migori,KE
+KE045,Kisii,KE
+KE046,Nyamira,KE
+KE047,Nairobi,KE
