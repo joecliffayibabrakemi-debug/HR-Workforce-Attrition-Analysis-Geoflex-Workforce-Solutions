@@ -129,27 +129,3 @@ The negative tenure records remain unresolved and therefore limit confidence in 
 
 The analysis helps identify where employee attrition is concentrated, compare recruitment sources by hiring efficiency, and identify data quality issues that could affect workforce reporting and planning.
 
-## Repository Structure
-
-```text
-HR-Analytics/
-│
-├── README.md
-│
-├── images/
-│   ├── executive-overview.png
-│   ├── attrition-analysis.png
-│   ├── talent-acquisition.png
-│   └── branch-comparison.png
-│
-├── documentation/
-│   ├── Problem_Statement.docx
-│   └── Business_Questions.docx
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-└── dashboard/
-    └── HR-Analytics.pbix
-```
